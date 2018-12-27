@@ -8,7 +8,7 @@ This is simple parser written on Python using:
   * *re*
   * and *pandas*
   
-The aim is to create a dataframe containig a detailed data about Top 250 movies.
+The aim is to create a dataframe containing a detailed data about Top 250 movies.
 The list can be found here: [Top 250 as rated by IMDb Users](https://www.imdb.com/chart/top).
 
 Parser creates a list of movie personal page links and then handles each of them to fill the dataframe.
